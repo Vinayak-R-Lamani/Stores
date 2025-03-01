@@ -1,0 +1,60 @@
+store name:
+Zudio -cloth 
+cid
+costumer name,
+what they brought 
+price 
+time 
+date
+
+Kirani store - grocery 
+cid
+costumer name,
+what they brought 
+price 
+time 
+date
+
+Fresh store - fruit shop
+cid
+costumer name,
+what they brought 
+price 
+time 
+date
+
+
+Get Health store - vegetable shop
+cid
+costumer name,
+what they brought 
+price 
+time 
+date
+
+
+Be Advance : electrical shop 
+cid
+costumer name,
+what they brought 
+price 
+time 
+date
+
+
+
+
+
+step 1 get all stores name 
+make one all show  store 
+
+step 2 if we click store get data entry store 
+and save 
+
+1 : make 1 front panel 
+2 : make store panel
+3 : return panel
+
+
+get_all_store:
+replace _ to " " and make Uppercase
